@@ -1,2 +1,2 @@
 # Road_following_jetracer
-Yellow
+Yellow detection for jetracer using OpenCV
